@@ -1,4 +1,4 @@
-Composite Wall Heat Transfer Project:
+## Composite Wall Heat Transfer Project:
 
 For this project, I modeled a composite wall as a 1D heat transfer problem and solved for the temperature profile across the wall. The setup for the problem consisted of a two-material composite wall, each with their own respective thicknesses and thermal conductivities. One side of the composite wall was insulated, while the other was exposed to a coolant with a known convective heat transfer coefficicent. The left segment of the wall had an unknown, uniform heat generation across its volume, q_dot. Based solely on a temperature probe between the two segments of the wall and a temperature probe at the right surface of the wall, I solved for the volumentric heat generation, q_dot, the themral conductivity of the left wall, and the temperature profile across both walls.
 
